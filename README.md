@@ -1,4 +1,4 @@
-## Internet-of-Things
+## Internet of Things
 
 #### Here you can find a report (under construction) on the topic: 
 
@@ -31,8 +31,6 @@ Industrial Internet of Things
 - [Information Centric Networking in the IoT:
 Experiments with NDN in the Wild](https://www.google.com)
 - [Content-centric wireless networking: A survey](https://www.google.com)
-- [An integratedauthenticationandauthorizationapproach
-for thenetworkofinformationarchitecture](https://www.google.com)
 - [Information-centric networking for M2M communications: Design and deployment](https://www.google.com)
 - [An integrated authentication and authorization approach for the network of information architecture](https://www.google.com)
 - [Dynamic Unicast: Information-centric multi-hop routing for mobile ad-hoc networks](https://www.google.com)
