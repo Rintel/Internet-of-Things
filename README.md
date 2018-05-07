@@ -25,13 +25,16 @@ The tentative report skeleton/outline of the report is:
 
 
 ### Planned list of references:
+- [The Internet of Things: A survey](https://www.sciencedirect.com/science/article/pii/S1389128610001568)
+- Security and Privacy Challenges in
+Industrial Internet of Things
 - [Information Centric Networking in the IoT:
 Experiments with NDN in the Wild](https://www.google.com)
 - [Content-centric wireless networking: A survey](https://www.google.com)
 - [An integratedauthenticationandauthorizationapproach
 for thenetworkofinformationarchitecture](https://www.google.com)
 - [Information-centric networking for M2M communications: Design and deployment](https://www.google.com)
-- [FromMANETtopeople-centricnetworking:Milestonesandopenresearchchallenges](https://www.google.com)
+- [An integrated authentication and authorization approach for the network of information architecture](https://www.google.com)
 - [Dynamic Unicast: Information-centric multi-hop routing for mobile ad-hoc networks](https://www.google.com)
 - [A Secure ICN-IoT Architecture](https://www.google.com)
 - [Toward Content-Centric Privacy in ICN:
