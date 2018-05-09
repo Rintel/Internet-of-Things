@@ -29,21 +29,21 @@ The tentative report skeleton/outline of the report is:
 - Security and Privacy Challenges in
 Industrial Internet of Things
 - [Information Centric Networking in the IoT:
-Experiments with NDN in the Wild](https://www.google.com)
-- [Content-centric wireless networking: A survey](https://www.google.com)
-- [Information-centric networking for M2M communications: Design and deployment](https://www.google.com)
-- [An integrated authentication and authorization approach for the network of information architecture](https://www.google.com)
-- [Dynamic Unicast: Information-centric multi-hop routing for mobile ad-hoc networks](https://www.google.com)
-- [A Secure ICN-IoT Architecture](https://www.google.com)
+Experiments with NDN in the Wild](https://dl.acm.org/citation.cfm?id=2660144)
+- [Content-centric wireless networking: A survey](https://www.sciencedirect.com/science/article/pii/S1389128614002497)
+- [Information-centric networking for M2M communications: Design and deployment](https://www.sciencedirect.com/science/article/pii/S0140366416300676)
+- [An integrated authentication and authorization approach for the network of information architecture](https://www.sciencedirect.com/science/article/pii/S1084804514001349)
+- [Dynamic Unicast: Information-centric multi-hop routing for mobile ad-hoc networks](https://www.sciencedirect.com/science/article/pii/S138912861630072X)
+- [A Secure ICN-IoT Architecture](http://ieeexplore.ieee.org/abstract/document/7962667/)
 - [Toward Content-Centric Privacy in ICN:
-Attribute-based Encryption and Routing](https://www.google.com)
-- [Secure Naming in Information-centric Networks](https://www.google.com)
+Attribute-based Encryption and Routing](https://dl.acm.org/citation.cfm?id=2491237)
+- [Secure Naming in Information-centric Networks](https://dl.acm.org/citation.cfm?id=1921248)
 - [Secure Content Delivery in Information-Centric Networks:
-Design, Implementation, and Analyses](https://www.google.com)
-- [Internet of things: Vision, applications and research challenges](https://www.google.com)
+Design, Implementation, and Analyses](https://dl.acm.org/citation.cfm?id=2491228)
+- [Internet of things: Vision, applications and research challenges](https://www.sciencedirect.com/science/article/pii/S1570870512000674)
 - [Information-Centric Networking:
-Seeing the Forest for the Trees](https://www.google.com)
-- [A secure IoT management architecture based on Information-Centric Networking](https://www.google.com)
-- [A novel hybrid forwarding strategy for content delivery in wireless information-centric networks](https://www.google.com)
+Seeing the Forest for the Trees](https://dl.acm.org/citation.cfm?id=2070563)
+- [A secure IoT management architecture based on Information-Centric Networking](https://www.sciencedirect.com/science/article/pii/S1084804516000370)
+- [A novel hybrid forwarding strategy for content delivery in wireless information-centric networks](https://www.sciencedirect.com/science/article/pii/S0140366417306096)
 - To be extended / exchanged
 
