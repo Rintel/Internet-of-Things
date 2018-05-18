@@ -24,6 +24,10 @@ The tentative report skeleton/outline of the report is:
 7. Appendices
 
 
+### Mid-Term Presentation:
+You find the mid term presentation [here!](https://docs.google.com/presentation/d/1qn54dVYhzHEW62tPR_2wmsGq1BpZ2MhjlFiEdgBvEL0/edit?usp=sharing)
+
+
 ### Planned list of references:
 - [The Internet of Things: A survey](https://www.sciencedirect.com/science/article/pii/S1389128610001568)
 - Security and Privacy Challenges in
