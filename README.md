@@ -8,16 +8,16 @@ The tentative report skeleton/outline of the report is:
 
 *Abstract*
 1. Introduction
+    - What is IoT and why its security matters
+    - What is ICN and why it is considered in IoT
+    - Security advantages of ICN over IP protocol stack
 2. Vision/Future development of IoT/Challenge: Confidentiality??
 2. Background / Essentials
     - Internet of Things
     - Information Centric Networking (ICN)
     - Internet of Things + Information Centric Networking (Advantages)
 3. Design of an secure ICN IoT architecture
-    - Secure device discovery
-    - Secure service discovery
-    - Device registration 
-    - Secure command execution/content transfer
+    - (needs more thoughts)
 4. Architecture Performance/Costs Eval.??
 5. Conclusion / Outlook?
 6. References
