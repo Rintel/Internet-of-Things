@@ -47,3 +47,9 @@ Seeing the Forest for the Trees](https://dl.acm.org/citation.cfm?id=2070563)
 - [A novel hybrid forwarding strategy for content delivery in wireless information-centric networks](https://www.sciencedirect.com/science/article/pii/S0140366417306096)
 - To be extended / exchanged
 
+Update 18.05
+- [Information-centric sensor networks for cognitive IoT: an overview](https://link.springer.com/article/10.1007/s12243-016-0533-8)
+- [Information-Centric Networking (ICN) Research Challenges](http://www.rfc-editor.org/info/rfc7927)
+- [Internet of Things Security](https://patents.google.com/patent/US9432378B1/en)
+- [Method and apparatus for policy based routing in information centric networking based home networks](https://patents.google.com/patent/US9769034B2/en)
+
