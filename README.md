@@ -17,7 +17,19 @@ The tentative report skeleton/outline of the report is:
     - Information Centric Networking (ICN)
     - Internet of Things + Information Centric Networking (Advantages)
 3. Design of an secure ICN IoT architecture
-    - (needs more thoughts)
+    - ICN-IoT middleware
+        - Embedded Systems 
+        - Aggregator
+        - Local Service Gateway
+        - ICN-IoT Server
+        - Service/Consumers
+    - Security Functionalites
+        - Secure device discovery (devices with and without pre-load secure keys)
+        - Secure service discovery
+        - Secure naming discovery
+        - User registration
+        - Secure content delivery 
+        
 4. Architecture Performance/Costs Eval.??
 5. Conclusion / Outlook?
 6. References
